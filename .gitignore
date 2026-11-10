@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# parser output and personal game files
+eql_parse_out/
+parse_out/
+eqlog_*.txt
+*-Inventory.txt
